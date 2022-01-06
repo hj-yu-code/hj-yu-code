@@ -1,8 +1,10 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyejeong%20Yu&fontSize=90&animation=twinkling&fontAlignY=38&desc=Do%20My%20Best!&descAlignY=51&descAlign=76)
 
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center"> 💌 my blog 💌 </h3>
+<p align="center"> https://velog.io/@hj-yu-code </p>
+<br>
+<h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
@@ -20,3 +22,4 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
+
